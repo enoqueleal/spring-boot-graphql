@@ -4,3 +4,5 @@ This project has been developed using Spring Boot and Spring Data JPA to demonst
 [Tutorial](https://medium.com/@md.ali.azam/graphql-api-server-using-spring-boot-jpa-41ac1f6ad1c)
 
 [GitHub Playground](https://docs.github.com/en/graphql/overview/explorer)
+
+[GraphQL | Java and Spring Boot](https://www.graphql-java.com/tutorials/getting-started-with-spring-boot)

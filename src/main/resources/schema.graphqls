@@ -11,8 +11,7 @@ type Author {
     publisher: Publisher!
     books: [Book]!
 }
- 
- 
+
 type Book {
     id: ID!
     title: String!
@@ -30,8 +29,8 @@ type Mutation {
  
 # The Root Query for the application
 type Query {
-	publisherById(id:Int): Publisher
-    authorById(id:Int): Author
-    bookById(id:Int): Book
+	publisherById(id:Int!): Publisher
+    authorById(id:Int!): Author
+    bookById(id:Int!): Book
 }
 
